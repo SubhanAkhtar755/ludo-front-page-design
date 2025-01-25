@@ -436,3 +436,17 @@ margin-top: -50px;
    left: 28px;
   }
 }
+
+/* third section --------------------------------------------*/
+
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.container2 h2{
+  color: #f48fb1;
+  font-size: 30px;
+  font-weight: 900;
+}
