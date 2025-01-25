@@ -412,6 +412,7 @@ margin-top: -50px;
   margin: 20px auto;
   position: absolute;
   left: 38px;
+  top: -50px;
  }
  .container{
   position: fixed;
@@ -434,6 +435,8 @@ margin-top: -50px;
    margin: 20px auto;
    position: absolute;
    left: 28px;
+   top: -50px;
+
   }
 }
 
