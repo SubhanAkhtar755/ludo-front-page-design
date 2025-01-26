@@ -18,14 +18,14 @@ body {
 .container {
   padding: 1px 4%;
   background: #fff;
-  height: 90px;
+  height: 70px;
 }
 
 nav {
   display: flex;
 
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
 
 }
@@ -33,7 +33,7 @@ nav {
 
 .logo {
   width: 340px;
-  height: 80px;
+  height: 60px;
   margin-left: 5px;
 
 }
@@ -440,8 +440,8 @@ margin-top: -50px;
   }
 }
 
-/* third section --------------------------------------------*/
-/* .third{
+/* third section -------------------------------------------- */
+ .third{
   background: #fff;
   height: 150vh;
 }
@@ -484,9 +484,180 @@ top: 130px;
   margin: 1.4em 0;
  font-size: 20px;
  font-weight: bolder;
-} */
+}
  /* fourth section--------------------------------------------*/
   .fourth{
-  background: grey;
-  height: 170vh;
+  background: white;
+ margin: 0;
+ padding: 0;
+ position: relative;
 }
+.bgimg{
+  background-size: cover;
+  height:50vh;
+  width: 100%;
+  position: absolute;
+  top: -462px;
+}
+.colp div p{
+  color: #fff;
+  font-size:50px;
+  font-weight: 900;
+  padding: 290px;
+  padding-top: 50px;
+  padding-left: 241px;
+  padding-right: 110px;
+  padding-bottom: 20px;
+background-color:  #CC007B;
+
+}
+.colp div{
+  position: absolute;
+  top: -462px;
+  left: -20px;
+}
+.ss img{
+  width: 1000px;
+  height: 500px;
+  margin-left: 30px;
+  position: absolute;
+  top: 450px;
+ left: 100px;
+}
+/* fifth section ------------------------------------------------- */
+ .fifth{
+  background: #63e329;
+ margin: 0;
+ padding: 0;
+ position: relative;
+ height: 70vh;
+}
+.container5{
+
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 40px;
+  width: 380px;
+  height: 70px;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.container5 .card{
+margin-top: 130px;
+border: none !important;
+background: none !important;
+}
+.card-body .bb{
+  color: #1B5E20 !important;
+  font-weight: bold;
+
+}
+.card-header h2{
+  color: #1B5E20 !important;
+
+}
+/* sixth section ------------------------------------------------- */
+
+ .sixth{ 
+  background: #fff;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  height: 100vh;
+ }
+ .sixth div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+ }
+ .vdio{
+  width: 750px;
+  height:400px;
+ }
+
+.sixth div img{
+margin-right: 20px;
+margin-top: -650px;
+}
+
+/* seventh section -----------------------------------------------*/
+.seventh{ 
+  background: #250829;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  height:70vh;
+ }
+ .container7{
+
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 40px;
+  width: 380px;
+  height: 70px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.container7 .card{
+  margin-top: 130px;
+  border: none !important;
+  background: none !important;
+  }
+.card-body h2{
+  color: #ad1457 !important;
+
+}
+.card-body{
+  align-items: center;
+}
+.card-body ul li{
+  color: #9c76a0 !important;
+}
+.card-body p{
+  color: #9c76a0 !important;
+}
+.container7 img{
+margin-top: 120px;
+width: 130px;
+height: 170px;
+}
+/* footer section  ------------------------------------------------*/
+ .footer{
+  background: #250829;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 27vh;
+
+
+ }
+.container8{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin-top: 110px;
+  margin-bottom: 0px;
+  border-top: 1px solid silver;
+
+}
+/* responsive design */
+
+
+
+
+
+
