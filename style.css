@@ -382,6 +382,9 @@ nav .fas {
   width: 100%;
   height: 29vh !important;
 }
+body{
+  overflow-x: hidden;
+}
 }
 
 /* second */
