@@ -651,6 +651,9 @@ body{
     height: 70vh;
     width: 373px !important;
   }
+  .sixth,.seventh{
+    width: 373px !important;
+  }
 }
 
 /* third section -------------------------------------------- */
