@@ -517,6 +517,10 @@ nav .fas {
 
 /* ---------------Css for small screen-------------- */
 @media only screen and (max-width: 400px) {
+  .vdio {
+    width: 383px !important;
+ 
+  }
   .row {
     position: relative;
     top: -280px;
