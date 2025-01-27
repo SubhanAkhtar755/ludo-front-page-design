@@ -618,7 +618,11 @@ body{
     color: #f48fb1;
     align-items: center;
   }
-
+  .second {
+    background: #CC007B;
+    height: 170vh;
+    width: 574px;
+  }
   .container1 {
     display: flex;
     justify-content: center;
