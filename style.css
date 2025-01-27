@@ -654,6 +654,10 @@ body{
   .sixth,.seventh,.footer{
     width: 373px !important;
   }
+  .sixth div img {
+    margin-right: 0px !important;
+    margin-top: -650px;
+  }
 }
 
 /* third section -------------------------------------------- */
