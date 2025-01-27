@@ -99,7 +99,9 @@ nav .fas {
 
 /* ---------------Css for small screen-------------- */
 @media only screen and (max-width: 600px) {
-
+.third,.fourth,.fifth,.sixth,.seventh,.footer{
+  display: none;
+}
   .l2 {
     display: flex;
     flex-direction: column;
@@ -524,6 +526,9 @@ body{
 
 /* ---------------Css for small screen-------------- */
 @media only screen and (max-width: 400px) {
+  .third,.fourth,.fifth,.sixth,.seventh,.footer{
+    display: none;
+  }
   .vdio {
     width: 273px !important;
  
@@ -613,7 +618,10 @@ body{
 
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 380px) {
+  .third,.fourth,.fifth,.sixth,.seventh,.footer{
+    display: none;
+  }
   .row .col p {
     color: #f48fb1;
     align-items: center;
