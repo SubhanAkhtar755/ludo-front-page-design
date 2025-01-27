@@ -518,7 +518,7 @@ nav .fas {
 /* ---------------Css for small screen-------------- */
 @media only screen and (max-width: 400px) {
   .vdio {
-    width: 383px !important;
+    width: 373px !important;
  
   }
   .row {
