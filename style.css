@@ -385,6 +385,10 @@ nav .fas {
 body{
   overflow-x: hidden;
 }
+.sixth div img {
+  margin-right: 15px !important;
+  margin-top: -650px;
+}
 }
 
 /* second */
