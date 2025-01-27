@@ -808,20 +808,22 @@ body{
 }
 
 .sixth div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
   height: 100vh;
   width: 300px;
 }
 
 .vdio {
-  width: 750px;
+  width: 750px !important;
   height: 400px;
+  margin-left: 900px !important;
 }
 
 .sixth div img {
-  margin-right: 20px;
+
+  margin-right: -920px;
   margin-top: -650px;
 }
 
