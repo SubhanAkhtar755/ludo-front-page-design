@@ -16,12 +16,17 @@ var sidemenu = document.getElementById("side-menu");
 function openmenu() {
   sidemenu.style.left = "0";
   l2logo.style.display = "block";
+  sidemenu.style.position='fixed';
 }
 function closemenu() {
   sidemenu.style.left = "-250px";
   l2logo.style.display = "none";
-}
+  sidemenu.style.position='fixed';
 
+}
+let closeClick = ()=>{
+  sidemenu.style.left = "-250px";
+}
 
 
 
