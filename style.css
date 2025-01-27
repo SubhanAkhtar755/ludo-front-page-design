@@ -330,7 +330,7 @@ nav .fas {
   }
 
   .vdio {
-    width: 303px !important;
+    width: 273px !important;
     height: 400px;
     margin-left: 30px !important;
     margin-top: -510px !important;
@@ -386,7 +386,7 @@ body{
   overflow-x: hidden;
 }
 .sixth div img {
-  margin-right: 15px !important;
+  margin-right: 0px !important;
   margin-top: -650px;
 }
 }
